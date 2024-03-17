@@ -1,0 +1,6 @@
+B1 :git init
+B2 :git remote add origin https://github.com/nvtqx1/LAB.github.io.git
+B3 :git remote -v
+B4 :git add .
+B5 :git commit -m"box"
+B6 :git push origin master
